@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+plotly
+streamlit-autorefresh
+twilio
+groq
+python-dotenv
+scikit-learn
+faker
